@@ -22,7 +22,7 @@
 </p>
 
 
-# Discord:
+# Discord
 
 [![](https://discord.c99.nl/widget/theme-1/458541186265907210.png)](https://discord.gg/flantic)
 
