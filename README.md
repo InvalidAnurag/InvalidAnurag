@@ -21,8 +21,7 @@
     </a>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=InvalidAnurag&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[
 # Discord
 
 [![](https://discord.c99.nl/widget/theme-1/458541186265907210.png)](https://discord.gg/flantic)
