@@ -19,7 +19,7 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shadowaf's Streak" src="http://github-readme-streak-stats.herokuapp.com?user=InvalidAnurag&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shadowaf's Streak" src="http://github-readme-streak-stats.herokuapp.com?user=InvalidAnurag&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 • Discord:
