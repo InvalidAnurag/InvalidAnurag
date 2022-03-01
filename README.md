@@ -12,7 +12,7 @@
   <h2>Github Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=InvalidAnurag&show_icons=true&count_private=true&title_color=ebebec&text_color=f2f9ff&icon_color=3ad253&bg_color=090d0f" float="left" />
   <h2>Most used languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=InvalidAnurag&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=3ad253&bg_color=090d0f" float="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=InvalidAnurag&show_icons=true&title_color=f2f9ff&text_color=f2f9ff&icon_color=3ad253&bg_color=090d0f" float="right" />
 </span>
 
 <p align="center">
@@ -20,7 +20,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anurag's Streak" src="http://github-readme-streak-stats.herokuapp.com?user=InvalidAnurag&theme=github-dark&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/InvalidAnurag/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=InvalidAnurag&bg_color=090d0f&color=3ad253=3ad253&point=FFFFFF&hide_border=true" /></a>
 
 # Discord
 
