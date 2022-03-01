@@ -3,25 +3,28 @@
 
 
 ## Visitors
-![Gaurav](https://profile-counter.glitch.me/InvalidAnurag/count.svg)
+![Anurag](https://profile-counter.glitch.me/InvalidAnurag/count.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvalidAnurag&show_icons=true&theme=radical)
-# Contact ✉️
 
 </span>
 
 <span float="center" height=200>
   <h2>Github Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Shadowaf&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91" float="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=InvalidAnurag&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91" float="left" />
   <h2>Most used languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shadowaf&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=475159" float="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=InvalidAnurag&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=475159" float="right" />
 </span>
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shadowaf's Streak" src="http://github-readme-streak-stats.herokuapp.com?user=InvalidAnurag&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anurag's Streak" src="http://github-readme-streak-stats.herokuapp.com?user=InvalidAnurag&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+# Contact ✉️
+
+
 • Discord:
 
 [![](https://discord.c99.nl/widget/theme-1/458541186265907210.png)](https://discord.gg/flantic)
