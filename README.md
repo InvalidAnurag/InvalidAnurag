@@ -5,7 +5,6 @@
 ## Visitors
 ![Anurag](https://profile-counter.glitch.me/InvalidAnurag/count.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvalidAnurag&show_icons=true&theme=radical)
 
 </span>
 
